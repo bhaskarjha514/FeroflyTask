@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="oder_details">Order details</string>
+    <string name="order_id_info">Order ID</string>
+    <string name="order_date_info">Order Date</string>
+    <string name="payment_mode_info">Payment Mode</string>
+    <string name="order_id">ORDERNUMBER4867392208600039</string>
+    <string name="payment_mode">PHONEPE</string>
+    <string name="order_date">Oct 23,2019 9:08PM</string>
+    <string name="office_info">OFFICE</string>
+    <string name="office_address">2nd Floor, Hno 12, Road no 37, Back side of MGS Hospital, West Punjabi Bagh, Delhi, 110026, india</string>
+    <string name="office_rule">Instructions: Call on arrival, bring cutlery</string>
+    <string name="preparing_dinner">Preparing Dinner.</string>
+    <string name="expected_time">Expected arrival time:</string>
+    <string name="time">09:51PM</string>
+</resources>
